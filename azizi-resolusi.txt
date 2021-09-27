@@ -1,2 +1,3 @@
 azizi resolusi
 - web developer
+- wwb
